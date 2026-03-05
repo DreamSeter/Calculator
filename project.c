@@ -24,6 +24,7 @@ int main(void) {
         case '*':
             printf("The result is %f", number1 * number2);
             break;
+        default;
     }
     return 0;
 }
